@@ -17,6 +17,7 @@ function App() {
     palette:{
       mode: mode
     }
+
   })
   return (
 
